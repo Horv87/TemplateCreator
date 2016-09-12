@@ -1,4 +1,25 @@
+
 {
-	"header":"<table><tr><td><img src='http://placehold.it/600x200'></td></tr></table>",
-	"blueRow":"<table><tr style='background-color:blue'> <td>Blue Row </td> </tr></table>"
+	"header":"<IMG class=fluid border=0 alt=Banner src='http://placehold.it/600x130' width=600 height=130>",
+	"blueRow":"\"<tbody>
+<tr>
+<td style='padding: 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly;
+line-height: 20px; color: #555555;'>
+Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
+per inceptos himenaeos. Praesent laoreet malesuada cursus. Maecenas scelerisque congue eros eu posuere.
+Praesent in felis ut velit pretium lobortis rhoncus ut&nbsp;erat. <br><br> <!-- Button : Begin -->
+<table align='center' style='margin: auto;' border='0' cellspacing='0' cellpadding='0'>
+<tbody>
+<tr>
+<td class='button-td' style='background: #ffd200; text-align: center;''><a class='button-a' style='background: #ffd200; border: 15px solid #ffd200;
+padding: 0 10px; color: #555555; font-family: sans-serif; font-size: 13px; line-height: 1.1;
+text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;'
+href='http:\/\/webexpress.retarus.com\/WebExpressSMS\/el\/0\/dY-0\/Ep9cQI\/vNJh' aid=\"7e41a63305eaca10c246149f68ca0e7a\"> <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->A Button<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--> <\/a><\/td>
+<\/tr>
+<\/tbody>
+<\/table>
+<!-- Button : END --><\/td>
+<\/tr>
+<!-- 1 Column Text : END --> \""
 }
+

@@ -1,11 +1,15 @@
 [
 {
 	"name": "header",
-	"img": "http://placehold.it/150x150"
+	"img": "http://placehold.it/150x150",
+	"file": "header.html"
+
 }
 ,
 {
 	"name": "blueRow",
-	"img": "http://placehold.it/150x150"
+	"img": "http://placehold.it/150x150",
+	"file": "header.html"
 }
+
 ]	
